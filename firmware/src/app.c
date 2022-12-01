@@ -157,6 +157,8 @@ void APP_Initialize ( void )
 
 void APP_Tasks ( void )
 {
+    // demo GIT 
+    
     /* Iterance through the array that store LEDS values */
     static uint8_t i_leds = 0;
     
